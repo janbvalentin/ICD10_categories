@@ -13,7 +13,7 @@ Files contain regular expression patterns for each category. In addition, each f
 
 **Weight:** weight of the category if used in a score of disease burden
 
-The files are can be used with the code from the [Danish_LPR_datamanagement_python]([https://pages.github.com/](https://github.com/janbvalentin/Danish_LPR_datamanagement_python)) repository, to categorise individuals in the Danish National Registers. 
+The files are can be used with the code from the [Danish_LPR_datamanagement_python](https://github.com/janbvalentin/Danish_LPR_datamanagement_python) repository, to categorise individuals in the Danish National Registers. 
 
 
 ## Files:
