@@ -1,17 +1,19 @@
 # ICD10_categories
 Disease, medicine and procedure categories using ATC and ICD-10 based SKS-codes
 
-Files contains Regular expression patterns for each category. In addition, each file may contain:
+Files contain regular expression patterns for each category. In addition, each file may contain:
 
-Name: name of category
+**Name:** name of category
 
-Label: Description of category
+**Label:** Description of category
 
-DIAG: List of ATC/SKS codes
+**DIAG:** List of ATC/SKS codes
 
-Regex: Regular expression string for identifying the ATC/SKS codes
+**Regex:** Regular expression string for identifying the ATC/SKS codes
 
-Weight: weight of the category if used in a score of disease burden
+**Weight:** weight of the category if used in a score of disease burden
+
+The files are can be used with the code from the [GitHub Pages](https://pages.github.com/) repository, to categorise individuals in the Danish National Registers. 
 
 
 ## Files:
