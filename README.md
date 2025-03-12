@@ -15,22 +15,22 @@ Weight: weight of the category if used in a score of disease burden
 
 
 ## Files:
-proc_regex.xlsx contains procedure SKS-codes for relevant treatments of inflammatory bowel disease (IBD). Names and labels are in Danish
+**proc_regex.xlsx** contains procedure SKS-codes for relevant treatments of inflammatory bowel disease (IBD). Names and labels are in Danish
 
 
 
-atc_regex.xlsx contains ATC codes for treatment of Astma, Diabetes and IBD.
+**atc_regex.xlsx** contains ATC codes for treatment of Astma, Diabetes and IBD.
 
 
 
-diag_regex.xlsx 
+**diag_regex.xlsx** contains ICD-10 codes for various diseases. Note; for the Danish National Patient registries all ICD-10 codes are coded with a D as prefix, which is included in the regular expressions. Names and labels are in Danish.
 
 
 
-nmi_atc_regex.xlsx
+**nmi_atc_regex.xlsx** contains ATC codes for the categories of the the Nordic Multimorbidity Index (NMI).
 
 
 
-nmi_diag_regex.xlsx
+**nmi_diag_regex.xlsx** contains ICD-10 codes for the categories of the the Nordic Multimorbidity Index (NMI). Note; for the Danish National Patient registries all ICD-10 codes are coded with a D as prefix, which is included in the regular expressions.
 
 
